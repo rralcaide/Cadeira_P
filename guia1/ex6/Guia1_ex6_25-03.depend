@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616683107 source:c:\users\rodrigo\desktop\isec\programação\guia1_ex6_25-03\main.c
+	<stdio.h>
+	<stdlib.h>
+
