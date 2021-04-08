@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617892915 source:c:\users\rodrigo\desktop\isec\github\cadeira_p\guia1\ex20\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
